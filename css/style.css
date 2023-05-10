@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 100%;
+    box-sizing: border-box;
+}
+.card{
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    padding: 30px;
+}
+h3{
+
+}
+.content{
+    text-align: justify;
+}
+
+
+
+
+
+
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.violet{
+    background-color: violet;
+}
